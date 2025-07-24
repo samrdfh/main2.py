@@ -1,0 +1,6 @@
+requests
+kivy
+plyer
+android
+pyjnius
+numpy
